@@ -131,7 +131,7 @@ Function displayVideo(args As Dynamic)
 
     bitrates  = [0]    
 
-    urls = ["http://stream.tn.com.ar/live/tnhd1/playlist.m3u8"]
+    urls = ["http://stream.tn.com.ar:1935/live/tnhd1/playlist.m3u8"]
     qualities = ["HD"]
     streamformat = "hls"
     title = "TN live stream"
